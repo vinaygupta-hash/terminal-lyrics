@@ -32,7 +32,7 @@ Learning Through Music/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Learning-Through-Music.git
+git clone https://github.com/vinaygupta-hash/Learning-Through-Music.git
 ```
 
 Navigate into the project:
